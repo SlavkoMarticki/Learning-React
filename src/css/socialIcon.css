@@ -1,0 +1,13 @@
+.socialIconHolder{
+    background-color: #101011;
+    text-align: center;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    height: 10%;    
+}
+.socialIconHolder img{
+    margin-top: 3%;
+    margin-left: 10px;
+    margin-right: 10px;
+    width: 40px;
+}

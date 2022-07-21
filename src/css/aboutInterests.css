@@ -1,0 +1,21 @@
+.aboutInterestsHolder{
+    height: 34%;
+    width: 90%;
+    margin: auto;
+    color: #b5b8b9;
+}
+.aboutInterestsHolder h3{
+    margin-bottom: 0px;
+    margin-top: 0px;
+}
+.aboutInterestsHolder p{
+    margin-top: 10px;
+    font-size: 15px;
+}
+
+@media screen and (max-height: 720px) {
+    .aboutInterestsHolder p{
+        font-size: 14px;
+    }
+    
+}
